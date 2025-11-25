@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Quotes">Цитаты</string>
+    <string name="settings">Настройки</string>
+    <string name="choose_action">Выберите действие:</string>
+    <string name="random_quote">Случайная цитата</string>
+    <string name="today_quote">Цитата дня</string>
+    <string name="all_quotes">Все цитаты</string>
+    <string name="show">Показать</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка:</string>
+    <string name="chars">Количество символов</string>
+    <string name="press_button">Нажмите на кнопку</string>
+    <string name="choose_theme">Выберите тему(пресет)</string>
+    <string name="standart">Стандартная</string>
+    <string name="dark">Тёмная</string>
+    <string name="close">Закрыть</string>
+    <string name="no_data">Нет данных</string>
+    <string name="copy">Копировать</string>
+</resources>
