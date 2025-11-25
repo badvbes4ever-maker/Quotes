@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InspireMe – Quotes App
 A modern Android application for reading motivational quotes from the **ZenQuotes API**.  
 Built with **Kotlin**, **Jetpack Compose**, **Retrofit**, and **MVVM** architecture.
@@ -20,7 +21,7 @@ The app supports two interface languages (**English / Russian**) and four visual
 |-------------|------------|
 | <img src="Screenshots/StandartTheme.png" width="300"/> | <img src="Screenshots/DarkTheme.png" width="300"/> |
 
-| Night Sea Theme | OceanC Color Theme |
+| Night Sea Theme | Ocean Color Theme |
 |-------------|------------|
 | <img src="Screenshots/NightSeaTheme.png" width="300"/> | <img src="Screenshots/OceanColorTheme.png" width="300"/> |
 
@@ -91,3 +92,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/badvbes4ever-maker/quotes.git
 
+=======
+# Quotes
+A modern Android application for reading motivational quotes from the ZenQuotes API.   Built with Kotlin, Jetpack Compose, Retrofit, and MVVM architecture.
+>>>>>>> 871107ffb20b3c11cbaec8209a6cdcde2bb6baf7
