@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">InspireMe</string>
+    <string name="Quotes">InspireMe - alıntılar</string>
+    <string name="settings">Ayarlar</string>
+    <string name="choose_action">Bir işlem seçin:</string>
+    <string name="random_quote">Rastgele alıntı</string>
+    <string name="today_quote">Günün alıntısı</string>
+    <string name="all_quotes">Tüm alıntılar</string>
+    <string name="show">Göster</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="error">Hata:</string>
+    <string name="chars">Karakter sayısı</string>
+    <string name="press_button">Butona basın</string>
+    <string name="choose_theme">Tema (preset) seçin</string>
+    <string name="standart">Standart</string>
+    <string name="dark">Koyu</string>
+    <string name="close">Kapat</string>
+    <string name="no_data">Veri yok</string>
+    <string name="copy">Kopyala</string>
+</resources>
